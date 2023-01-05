@@ -1,0 +1,2 @@
+# salario-latam
+Salario Minimo
